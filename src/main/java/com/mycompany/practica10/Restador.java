@@ -5,9 +5,13 @@
  */
 package com.mycompany.practica10;
 
-public class Sumador {
+/**
+ *
+ * @author rdf
+ */
+public class Restador {
 
-    public static float sumar(float a, float b) {
-        return a + b;    
+    public static float restar(float a, float b) {
+        return a - b;
     }
 }
